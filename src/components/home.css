@@ -1,0 +1,22 @@
+.img{
+	background-image: url(./img/back.png);
+	background-size: cover;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	
+}
+.btns{
+	background-color: #00a8ff;
+	border: 1;
+	border-radius: 10px;
+	width: 180px;
+	height: 50px;
+	position: absolute;
+	font-size: 26px;
+	font-family: 'IRANSans';
+	top: 200px;
+	right: 180px;
+	color: rgb(250, 244, 244);
+}
